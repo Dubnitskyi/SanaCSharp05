@@ -1,0 +1,15 @@
+C:\Users\spluxa4PC\Documents\Лаби\2-курс\2\KOP\SanaCSharp05\OOP1(2)\bin\Debug\net6.0\OOP1(2).exe
+C:\Users\spluxa4PC\Documents\Лаби\2-курс\2\KOP\SanaCSharp05\OOP1(2)\bin\Debug\net6.0\OOP1(2).deps.json
+C:\Users\spluxa4PC\Documents\Лаби\2-курс\2\KOP\SanaCSharp05\OOP1(2)\bin\Debug\net6.0\OOP1(2).runtimeconfig.json
+C:\Users\spluxa4PC\Documents\Лаби\2-курс\2\KOP\SanaCSharp05\OOP1(2)\bin\Debug\net6.0\OOP1(2).dll
+C:\Users\spluxa4PC\Documents\Лаби\2-курс\2\KOP\SanaCSharp05\OOP1(2)\bin\Debug\net6.0\OOP1(2).pdb
+C:\Users\spluxa4PC\Documents\Лаби\2-курс\2\KOP\SanaCSharp05\OOP1(2)\obj\Debug\net6.0\OOP1(2).csproj.AssemblyReference.cache
+C:\Users\spluxa4PC\Documents\Лаби\2-курс\2\KOP\SanaCSharp05\OOP1(2)\obj\Debug\net6.0\OOP1(2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spluxa4PC\Documents\Лаби\2-курс\2\KOP\SanaCSharp05\OOP1(2)\obj\Debug\net6.0\OOP1(2).AssemblyInfoInputs.cache
+C:\Users\spluxa4PC\Documents\Лаби\2-курс\2\KOP\SanaCSharp05\OOP1(2)\obj\Debug\net6.0\OOP1(2).AssemblyInfo.cs
+C:\Users\spluxa4PC\Documents\Лаби\2-курс\2\KOP\SanaCSharp05\OOP1(2)\obj\Debug\net6.0\OOP1(2).csproj.CoreCompileInputs.cache
+C:\Users\spluxa4PC\Documents\Лаби\2-курс\2\KOP\SanaCSharp05\OOP1(2)\obj\Debug\net6.0\OOP1(2).dll
+C:\Users\spluxa4PC\Documents\Лаби\2-курс\2\KOP\SanaCSharp05\OOP1(2)\obj\Debug\net6.0\refint\OOP1(2).dll
+C:\Users\spluxa4PC\Documents\Лаби\2-курс\2\KOP\SanaCSharp05\OOP1(2)\obj\Debug\net6.0\OOP1(2).pdb
+C:\Users\spluxa4PC\Documents\Лаби\2-курс\2\KOP\SanaCSharp05\OOP1(2)\obj\Debug\net6.0\OOP1(2).genruntimeconfig.cache
+C:\Users\spluxa4PC\Documents\Лаби\2-курс\2\KOP\SanaCSharp05\OOP1(2)\obj\Debug\net6.0\ref\OOP1(2).dll
